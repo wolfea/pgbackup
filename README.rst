@@ -8,7 +8,7 @@ Preparing for Development
 
 1. Ensure ``pip`` and ``pipenv`` are installed
 
-2. Clone repository: ``git clone https://github.com/wolfea/pgbackup.git``
+2. Clone repository: ``git clone git@github.com:austin-wolfe/pgbackup``
 
 3. cd into repository
 
